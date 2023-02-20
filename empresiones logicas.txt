@@ -1,0 +1,24 @@
+2) ¿soy un empleado antiguo?
+
+tiempo_trabajando>=20años = verdadero
+
+
+3) Compra supermercado 
+
+fondo>=monto_total_compra = verdadero
+
+
+4)Curso CADIF1
+cantidad_estudiantes>=8 = verdadero
+
+
+5)Descuento tienda
+monto_total>10000=verdadero
+
+
+6)Juego Beisbol
+cantidad_boletos>3=verdadero
+
+
+7)Productos
+cantidad_productos<=12= verdadero
